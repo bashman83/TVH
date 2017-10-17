@@ -1,6 +1,4 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-name="001" tvg-id="tv.9" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.9.png",TVNZ 1
+-1 tvg-name="001" tvg-id="tv.9" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.9.png",TVNZ 1
 pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/nz/tv.9 -vcodec copy -acodec copy -metadata service_name=tv.9 -f mpegts pipe:1
 
 #EXTINF:-1 tvg-name="002" tvg-id="tv.10" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.10.png",TVNZ 2

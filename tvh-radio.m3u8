@@ -68,3 +68,6 @@ pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-A
 
 #EXTINF:-1 tvg-name="036" tvg-id="radio.ih.7419" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7419.png" radio="true",The Faction Radio
 pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Sydney/radio.ih.7419 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7419 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="901" tvg-id="radio.show.ltd.1" tvg-logo="http://radiolemans.0157.org/audios/rs1logo.png" radio="true",RS1
+pipe://ffmpeg -i http://tx.sharp-stream.com/icecast.php?i=radioshow.mp3 -vn -acodec copy -metadata service_provider=Radio -metadata service_name=radioshowltd.1 -f mpegts -mpegts_service_type digital_radio pipe:1

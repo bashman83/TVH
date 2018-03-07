@@ -51,6 +51,5 @@ pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Ag
 #EXTINF:-1 tvg-name="013" tvg-id="tv.60" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.60.png",Wairarapa TV
 pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/nz/tv.60.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.60 -f mpegts pipe:1
 
-
-
-#EXTINF:-1 pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Sydney/tv.fox.sports.news.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.fox.sports.news -f mpegts pipe:1
+#EXTINF:-1 tvg-name="400" tvg-id="tv.fox.sports.news" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.fox.sports.news.png",Fox Sports News
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Sydney/tv.fox.sports.news.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.fox.sports.news -f mpegts pipe:1

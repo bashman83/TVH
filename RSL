@@ -7,8 +7,7 @@ pipe:///usr/bin/ffmpeg -i http://tx.sharp-stream.com/icecast.php?i=radioshow.mp3
 pipe:///usr/bin/ffmpeg -i http://tx.sharp-stream.com/icecast.php?i=radioshow2.mp3 -vn -acodec copy -metadata service_provider=Radio -metadata service_name=radioshowltd.2 -f mpegts -mpegts_service_type digital_radio pipe:1
 
 #EXTINF:-1 tvg-name="903" tvg-id="RadioShoeLtd.3" tvg-logo="http://radiolemans.0157.org/audios/rs3logo.png" radio="true",RS3
-pipe:///usr/bin/ffmpeg -i http://tx.sharp-stream.com/icecast.php?i=radioshow3.mp3 -vn -acodec copy -metadata service_provider=Radio -metadata service_name=radioshowltd.3 -f mpegts -mpegts_service_type digital_radio pipe:1
+pipe://ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/nz/tv.60 -vcodec copy -acodec copy -metadata service_name=tv.60 -f mpegts pipe:1
 
-#!/bin/bash
-zsite=$(youtube-dl -f 95 https://www.youtube.com/watch?v=21X5lGlDOfg -g)
-/usr/bin/ffmpeg -i $zsite -vcodec copy -acodec copy -f mpegts -tune zerolatency pipe:1
+#EXTINF:-1 tvg-name="850" tvg-id="NASA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1920px-NASA_TV.svg.png",NASA TV
+pipe:///usr/bin/ffmpeg https://www.youtube.com/watch?v=21X5lGlDOfg -vcodec copy -acodec copy -metadata service_name=tv.60 -f mpegts pipe:1

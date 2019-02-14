@@ -8,3 +8,7 @@ pipe:///usr/bin/ffmpeg -i http://tx.sharp-stream.com/icecast.php?i=radioshow2.mp
 
 #EXTINF:-1 tvg-name="903" tvg-id="RadioShoeLtd.3" tvg-logo="http://radiolemans.0157.org/audios/rs3logo.png" radio="true",RS3
 pipe:///usr/bin/ffmpeg -i http://tx.sharp-stream.com/icecast.php?i=radioshow3.mp3 -vn -acodec copy -metadata service_provider=Radio -metadata service_name=radioshowltd.3 -f mpegts -mpegts_service_type digital_radio pipe:1
+
+#!/bin/bash
+zsite=$(youtube-dl -f 95 https://www.youtube.com/watch?v=21X5lGlDOfg -g)
+/usr/bin/ffmpeg -i $zsite -vcodec copy -acodec copy -f mpegts -tune zerolatency pipe:1

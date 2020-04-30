@@ -1,0 +1,77 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="005" tvg-chno="105" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/005_ScrollLogo_W.png",SKY5
+plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F1019621443626&_l=.pvr
+#EXTINF:-1 tvg-id="006" tvg-chno="106" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/006_ScrollLogo.png",Vibe
+plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F1149573187525&_l=.pvr
+#EXTINF:-1 tvg-id="007" tvg-chno="107" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/007_ScrollLogo_V2.png",BBC UKTV
+plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F878483523973&_l=.pvr
+#EXTINF:-1 tvg-id="009" tvg-chno="109" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/SKYBOXSETS-ScrollLogo.png",BOXSETS
+plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F982001219858&_l=.pvr
+#EXTINF:-1 tvg-id="010" tvg-chno="110" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/SoHo-ScrollLogo.png",SoHo [COLOR red](LOCKED)[/COLOR]
+plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F967774787736&_l=.pvr
+#EXTINF:-1 tvg-id="011" tvg-chno="111" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/COM_CEN-ScrollLogo.png",Comedy Central
+plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F1019606595622&_l=.pvr
+#EXTINF:-1 tvg-id="013" tvg-chno="113" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/Vice_ScrollLogo.png",VICE
+plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F878492739804&_l=.pvr
+#EXTINF:-1 tvg-id="014" tvg-chno="114" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/011_ScrollLogo_V3.png",E!
+plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F878486595984&_l=.pvr
+#EXTINF:-1 tvg-id="015" tvg-chno="115" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/MTV-Scroll_Logo.png",MTV
+plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F1010891843687&_l=.pvr
+#EXTINF:-1 tvg-id="030" tvg-chno="130" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/NEW_030_ScrollLogo.png",Sky Movies Premiere
+plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F878487619544&_l=.pvr
+#EXTINF:-1 tvg-id="033" tvg-chno="133" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/033_ScrollLogo.png",Sky Movies Greats
+plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F1149569603606&_l=.pvr
+#EXTINF:-1 tvg-id="039" tvg-chno="139" tvg-logo="http://prod-ak.images.skygo.co.nz/images/039_ScrollLogo.png",Rialto [COLOR red](LOCKED)[/COLOR]
+plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F963475523836&_l=.pvr
+#EXTINF:-1 tvg-id="050" tvg-chno="150" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/Quiz_ScrollLogo.png",SKY Sport Quiz
+plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F951811651582&_l=.pvr
+#EXTINF:-1 tvg-id="051" tvg-chno="151" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/NEW_051_ScrollLogo.png",Sky Sport 1
+plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F878468163850&_l=.pvr
+#EXTINF:-1 tvg-id="052" tvg-chno="152" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/NEW_052_ScrollLogo.png",Sky Sport 2
+plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F878472259917&_l=.pvr
+#EXTINF:-1 tvg-id="053" tvg-chno="153" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/NEW_053_ScrollLogo.png",Sky Sport 3
+plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F878471235952&_l=.pvr
+#EXTINF:-1 tvg-id="054" tvg-chno="154" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/NEW_054_ScrollLogo.png",Sky Sport 4
+plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F878478915556&_l=.pvr
+#EXTINF:-1 tvg-id="055" tvg-chno="155" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/NEW_055_ScrollLogo.png",Sky Sport 5
+plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F878481475927&_l=.pvr
+#EXTINF:-1 tvg-id="056" tvg-chno="156" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/NEW_056_ScrollLogo.png",Sky Sport 6
+plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F878488131804&_l=.pvr
+#EXTINF:-1 tvg-id="057" tvg-chno="157" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/NEW_057_ScrollLogo.png",Sky Sport 7
+plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F1153559620002&_l=.pvr
+#EXTINF:-1 tvg-id="058" tvg-chno="158" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/NEW_058_ScrollLogo.png",Sky Sport 8
+plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F1153558595962&_l=.pvr
+#EXTINF:-1 tvg-id="059" tvg-chno="159" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/NEW_059_ScrollLogo.png",Sky Sport 9
+plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F878490179850&_l=.pvr
+#EXTINF:-1 tvg-id="060" tvg-chno="160" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/060_ScrollLogo_V1.png",ESPN
+plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F878487107596&_l=.pvr
+#EXTINF:-1 tvg-id="061" tvg-chno="161" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/061_ScrollLogo_V1.png",ESPN2
+plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F878492739536&_l=.pvr
+#EXTINF:-1 tvg-id="062" tvg-chno="162" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/062_288-110_Trackside1_Scroll.png",TAB Trackside 1
+plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F1356286531814&_l=.pvr
+#EXTINF:-1 tvg-id="063" tvg-chno="163" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/063_288-110_Trackside2_Scroll.png",TAB Trackside 2
+plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F1357667907809&_l=.pvr
+#EXTINF:-1 tvg-id="070" tvg-chno="170" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/Discovery-ScrollLogo.png",Discovery Channel
+plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F878490691552&_l=.pvr
+#EXTINF:-1 tvg-id="072" tvg-chno="172" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/072_ScrollLogo_V5.png",National Geographic
+plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F878483523983&_l=.pvr
+#EXTINF:-1 tvg-id="074" tvg-chno="174" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/074_ScrollLogo258x110.png",BBC Earth
+plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F878487107700&_l=.pvr
+#EXTINF:-1 tvg-id="075" tvg-chno="175" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/DISC_TURBO-ScrollLogo.png",Discovery Turbo
+plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F1019400771971&_l=.pvr
+#EXTINF:-1 tvg-id="085" tvg-chno="185" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/SN_085_ScrollLogo.png",Sky News NZ
+plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F888235075718&_l=.pvr
+#EXTINF:-1 tvg-id="087" tvg-chno="187" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/087_CNN_CHANNELLOGOSCROLL_258X110.png",CNN
+plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F878486595672&_l=.pvr
+#EXTINF:-1 tvg-id="089" tvg-chno="189" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/089_Scroll.png",BBC World News
+plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F878480451805&_l=.pvr
+#EXTINF:-1 tvg-id="101" tvg-chno="201" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/101_ScrollLogo.png",Nickelodeon
+plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F1149560899786&_l=.pvr
+#EXTINF:-1 tvg-id="102" tvg-chno="202" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/102_ScrollLogo.png",Cartoon Network
+plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F878486595842&_l=.pvr
+#EXTINF:-1 tvg-id="103" tvg-chno="203" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/103_ScrollLogo.png",CBeebies
+plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F1645941315715&_l=.pvr
+#EXTINF:-1 tvg-id="104" tvg-chno="204" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/104_ScrollLogo.png",Nick Jr.
+plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F1149555267555&_l=.pvr
+#EXTINF:-1 tvg-id="210" tvg-chno="310" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/210_ScrollLogo258x110.png",SoHo2 [COLOR red](LOCKED)[/COLOR]
+plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F1344874051981&_l=.pvr

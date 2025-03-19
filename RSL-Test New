@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="901" tvh-id="RadioShowLtd.1" tvg-logo="https://radioshow.limited/rsl/wp-content/uploads/2020/05/rs1_400sq.jpg" radio="true",RS1
+#EXTINF:-1 tvg-name="901" tvh-id="RadioShowLtd.1" tvg-logo="http://radioshow.limited/rsl/wp-content/uploads/2020/05/rs1_400sq.jpg" radio="true",RS1
 http://tx.sharp-stream.com/icecast.php?i=radioshow.mp3
 
 #EXTINF:-1 tvg-name="902" tvh-id="RadioShowLtd.2" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/51/46/4e/51464e86-2455-71c4-906a-c6dd72d3a88e/mza_127401067332867428.jpg/600x600bb.jpg" radio="true",RS2 IMSA Radio
 http://tx.sharp-stream.com/icecast.php?i=radioshow2.mp3
 
-#EXTINF:-1 tvg-name="903" tvh-id="RadioShowLtd.3" tvg-logo="https://radioshow.limited/rsl/wp-content/uploads/2020/05/rs3_400sq.jpg" radio="true",RS3
+#EXTINF:-1 tvg-name="903" tvh-id="RadioShowLtd.3" tvg-logo="http://radioshow.limited/rsl/wp-content/uploads/2020/05/rs3_400sq.jpg" radio="true",RS3
 http://tx.sharp-stream.com/icecast.php?i=radioshow3.mp3

@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://i.mjh.nz/nz/epg.xml.gz"
+#EXTM3U
 
 #EXTINF:-1 channel-id="mjh-discovery-ptcn" tvg-id="mjh-discovery-ptcn" tvg-logo="https://cdn-prod.fullscreen.nz/v1/images/channel/linear/ptcn/logos/default.png" group-title="Nz" , CNN Headlines
 https://i.mjh.nz/.r/discovery-ptcn.m3u8

@@ -1,77 +1,186 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="005" tvg-chno="105" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/005_ScrollLogo_W.png",SKY5
-plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F1019621443626&_l=.pvr
-#EXTINF:-1 tvg-id="006" tvg-chno="106" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/006_ScrollLogo.png",Vibe
-plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F1149573187525&_l=.pvr
-#EXTINF:-1 tvg-id="007" tvg-chno="107" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/007_ScrollLogo_V2.png",BBC UKTV
-plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F878483523973&_l=.pvr
-#EXTINF:-1 tvg-id="009" tvg-chno="109" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/SKYBOXSETS-ScrollLogo.png",BOXSETS
-plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F982001219858&_l=.pvr
-#EXTINF:-1 tvg-id="010" tvg-chno="110" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/SoHo-ScrollLogo.png",SoHo [COLOR red](LOCKED)[/COLOR]
-plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F967774787736&_l=.pvr
-#EXTINF:-1 tvg-id="011" tvg-chno="111" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/COM_CEN-ScrollLogo.png",Comedy Central
-plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F1019606595622&_l=.pvr
-#EXTINF:-1 tvg-id="013" tvg-chno="113" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/Vice_ScrollLogo.png",VICE
-plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F878492739804&_l=.pvr
-#EXTINF:-1 tvg-id="014" tvg-chno="114" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/011_ScrollLogo_V3.png",E!
-plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F878486595984&_l=.pvr
-#EXTINF:-1 tvg-id="015" tvg-chno="115" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/MTV-Scroll_Logo.png",MTV
-plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F1010891843687&_l=.pvr
-#EXTINF:-1 tvg-id="030" tvg-chno="130" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/NEW_030_ScrollLogo.png",Sky Movies Premiere
-plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F878487619544&_l=.pvr
-#EXTINF:-1 tvg-id="033" tvg-chno="133" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/033_ScrollLogo.png",Sky Movies Greats
-plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F1149569603606&_l=.pvr
-#EXTINF:-1 tvg-id="039" tvg-chno="139" tvg-logo="http://prod-ak.images.skygo.co.nz/images/039_ScrollLogo.png",Rialto [COLOR red](LOCKED)[/COLOR]
-plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F963475523836&_l=.pvr
-#EXTINF:-1 tvg-id="050" tvg-chno="150" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/Quiz_ScrollLogo.png",SKY Sport Quiz
-plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F951811651582&_l=.pvr
-#EXTINF:-1 tvg-id="051" tvg-chno="151" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/NEW_051_ScrollLogo.png",Sky Sport 1
-plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F878468163850&_l=.pvr
-#EXTINF:-1 tvg-id="052" tvg-chno="152" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/NEW_052_ScrollLogo.png",Sky Sport 2
-plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F878472259917&_l=.pvr
-#EXTINF:-1 tvg-id="053" tvg-chno="153" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/NEW_053_ScrollLogo.png",Sky Sport 3
-plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F878471235952&_l=.pvr
-#EXTINF:-1 tvg-id="054" tvg-chno="154" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/NEW_054_ScrollLogo.png",Sky Sport 4
-plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F878478915556&_l=.pvr
-#EXTINF:-1 tvg-id="055" tvg-chno="155" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/NEW_055_ScrollLogo.png",Sky Sport 5
-plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F878481475927&_l=.pvr
-#EXTINF:-1 tvg-id="056" tvg-chno="156" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/NEW_056_ScrollLogo.png",Sky Sport 6
-plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F878488131804&_l=.pvr
-#EXTINF:-1 tvg-id="057" tvg-chno="157" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/NEW_057_ScrollLogo.png",Sky Sport 7
-plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F1153559620002&_l=.pvr
-#EXTINF:-1 tvg-id="058" tvg-chno="158" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/NEW_058_ScrollLogo.png",Sky Sport 8
-plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F1153558595962&_l=.pvr
-#EXTINF:-1 tvg-id="059" tvg-chno="159" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/NEW_059_ScrollLogo.png",Sky Sport 9
-plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F878490179850&_l=.pvr
-#EXTINF:-1 tvg-id="060" tvg-chno="160" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/060_ScrollLogo_V1.png",ESPN
-plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F878487107596&_l=.pvr
-#EXTINF:-1 tvg-id="061" tvg-chno="161" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/061_ScrollLogo_V1.png",ESPN2
-plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F878492739536&_l=.pvr
-#EXTINF:-1 tvg-id="062" tvg-chno="162" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/062_288-110_Trackside1_Scroll.png",TAB Trackside 1
-plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F1356286531814&_l=.pvr
-#EXTINF:-1 tvg-id="063" tvg-chno="163" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/063_288-110_Trackside2_Scroll.png",TAB Trackside 2
-plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F1357667907809&_l=.pvr
-#EXTINF:-1 tvg-id="070" tvg-chno="170" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/Discovery-ScrollLogo.png",Discovery Channel
-plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F878490691552&_l=.pvr
-#EXTINF:-1 tvg-id="072" tvg-chno="172" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/072_ScrollLogo_V5.png",National Geographic
-plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F878483523983&_l=.pvr
-#EXTINF:-1 tvg-id="074" tvg-chno="174" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/074_ScrollLogo258x110.png",BBC Earth
-plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F878487107700&_l=.pvr
-#EXTINF:-1 tvg-id="075" tvg-chno="175" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/DISC_TURBO-ScrollLogo.png",Discovery Turbo
-plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F1019400771971&_l=.pvr
-#EXTINF:-1 tvg-id="085" tvg-chno="185" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/SN_085_ScrollLogo.png",Sky News NZ
-plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F888235075718&_l=.pvr
-#EXTINF:-1 tvg-id="087" tvg-chno="187" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/087_CNN_CHANNELLOGOSCROLL_258X110.png",CNN
-plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F878486595672&_l=.pvr
-#EXTINF:-1 tvg-id="089" tvg-chno="189" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/089_Scroll.png",BBC World News
-plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F878480451805&_l=.pvr
-#EXTINF:-1 tvg-id="101" tvg-chno="201" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/101_ScrollLogo.png",Nickelodeon
-plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F1149560899786&_l=.pvr
-#EXTINF:-1 tvg-id="102" tvg-chno="202" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/102_ScrollLogo.png",Cartoon Network
-plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F878486595842&_l=.pvr
-#EXTINF:-1 tvg-id="103" tvg-chno="203" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/103_ScrollLogo.png",CBeebies
-plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F1645941315715&_l=.pvr
-#EXTINF:-1 tvg-id="104" tvg-chno="204" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/104_ScrollLogo.png",Nick Jr.
-plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F1149555267555&_l=.pvr
-#EXTINF:-1 tvg-id="210" tvg-chno="310" tvg-logo="https://secure.prod-ak.images.skygo.co.nz/images/210_ScrollLogo258x110.png",SoHo2 [COLOR red](LOCKED)[/COLOR]
-plugin://plugin.video.skygo.nz/?_=play&id=http%3A%2F%2Fdata.media.theplatform.com%2Fmedia%2Fdata%2FMedia%2F1344874051981&_l=.pvr
+#EXTM3U x-tvg-url="special://profile/addon_data/plugin.program.iptv.merge/epg.xml"
+
+#EXTGRP:
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="4" tvg-id="sky.4" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/7obDvDTY8JU6XSSCHaJFYt/8cb519f51acd9c9d4c728f596482cabd/Sky-Open-Main.png" , Sky Open
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=0101&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="5" tvg-id="sky.5" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/6i8PqlDIyLN6Qe5Y9hlko/3237b19cb96f1439627c0f243df505b7/5.png" , Sky 5
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=SKY1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="6" tvg-id="sky.6" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/4C5W3bvWxMZaosAYhc4gOF/5bb3538094e37589754caa1ca160a050/Vibe.png" , Vibe
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=SKY2&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="7" tvg-id="sky.7" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/4n9hNuA8TUWu0JNevZajLp/bc6ad1c8ae8e73503415ce690892d411/BBC_uktv.png" , BBC UKTV
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=UKTV&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="8" tvg-id="sky.8" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/4bF4wXx0x2UA2zhkgqkZgP/14cde4fe68b7b6037a4183258974f4ad/Jones.png" , JONES!
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=0058&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="9" tvg-id="sky.9" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/BhQbPBVkmzELknO8mPTOW/a428f650ec7510b935806c09920b137a/sky_drama_colour_1920x1080_-_TV_Guide.png" , Sky Drama
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=0205&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="10" tvg-id="sky.10" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/7doHB6Jd9TJ3sdXrCYZuBh/0b14d9afb4d08774d73f641b0b560392/Living_Channel.png" , Living
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=LIV1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="11" tvg-id="sky.11" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/6s9xrf4dGWXJgAco3c9RZN/4071ce552a68fd788e46e13ce7e29756/Sky_comedy_filled_colour_1920x1080.png" , Sky Comedy
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=0092&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="14" tvg-id="sky.14" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/7tHYClozE48YhvCjVKQSA1/00f4a5c21a338f8c0e8876dd748b88c5/Sky_Factual_1920x1080.png" , Sky Factual
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=0206&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="16" tvg-id="sky.16" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/3naQ4k9cQFPf92e7hs8HJ2/103abd6604e6cbf1a553ce02675cf9ff/TLC.png" , TLC
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=0098&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="18" tvg-id="sky.18" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/1BBuJmPeNz2TqofYZIIcPI/e375b242072fecd0d74859cfe2599b45/ID.png" , ID
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=0197&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="20" tvg-id="sky.20" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/1CI3bDDCjaWhqzh4eABWMC/e7b48a74cfadbb496b7de38890366bc0/ARTS.png" , Sky Arts
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=ART2&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="25" tvg-id="sky.25" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/3QMBiRuZGW5roct4GxnqXL/5ae0b5c2610b943de1d2ccaf9f422c45/Juice_TV_Logo_Orange_1920x1080.png" , Juice TV
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=0036&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="26" tvg-id="sky.26" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/6BY4zPrsfsSpltA9KnnNLM/d7d4bdf215c75dfbf210baf4131550d1/j2_file_1_1920x1080.png" , J2
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=0025&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="30" tvg-id="sky.30" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/23RkexBUGiJIg5pZrgog5W/c4e86f15be68ea7bb19485f7added05e/Sky_Movies_Premiere.png" , Sky Movies Premiere
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=MOVI&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="31" tvg-id="sky.31" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/4INQvqt3DZGPd58SVEipKh/eeb0ca97e156f6856d4905cdc5dd83b6/Sky_Movies_COMEDY.png" , Sky Movies Comedy
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=0065&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="32" tvg-id="sky.32" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/6lOzGKmf69IQeVzJBd8q3d/fdd21b63556747d850119290a00c4374/Sky_Movies_ACTION.png" , Sky Movies Action
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=0064&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="33" tvg-id="sky.33" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/3yUGDdxxxYUhE2r2nIMd0t/cba2bf01592446d9ac94fde3f5773be4/Sky_Movies_Greats.png" , Sky Movies Greats
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=MOV3&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="34" tvg-id="sky.34" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/4HhCeCq1DuWS0iHzFnGnjK/38a0d6437e0f96b2d210d3ada453f860/Sky_Movies_CLASSICS.png" , Sky Movies Classics
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=0059&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="36" tvg-id="sky.36" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/2fajvvc9DnVkIGUTrUUBBu/455f4e5d97035dd6209977f158271aae/Sky_Movies_FAMILY.png" , Sky Movies Family
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=0096&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="39" tvg-id="sky.39" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/1PCTiXshgnq3uzQ6iNy4bI/d508329c01275f2a44184be0cccf046b/Rialto.png" , Rialto
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=0155&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="50" tvg-id="sky.50" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/7nDLn3jd7sFlVOsWo81cL0/ff39abec2569729c132e2c75a3e6839f/Sky_Sports_Select.png" , Sky Sport Select
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=0162&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="51" tvg-id="sky.51" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/4gZFsogRgbwZdK9k95iHWa/8dee97f8eebca01da8099679b7f42f5c/Sky_Sports_1.png" , Sky Sport 1
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=SPT1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="52" tvg-id="sky.52" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/5sg8cnjJ9ewyw9mBnj4DyP/d889d7e60e7959cb32fb4459c359b310/Sky_Sports_2.png" , Sky Sport 2
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=SPT2&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="53" tvg-id="sky.53" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/2Li36VKCjeQR5EdxX94vyV/f4e8b1608c57e9f44fc5fead915927b0/Sky_Sports_3.png" , Sky Sport 3
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=SPT3&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="54" tvg-id="sky.54" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/547OJTpD88fxJE5z1ZlZhN/5350246da05b14251b852b58a8cf07e5/Sky_Sports_4.png" , Sky Sport 4
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=0001&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="55" tvg-id="sky.55" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/3fJO9Xv4cwOvshWTvCVjX6/8c97db357dd3aa0050d7ffdb1ff46259/Sky_Sports_5.png" , Sky Sport 5
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=0002&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="56" tvg-id="sky.56" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/4neKyKZhBEIzEzEmeWWU96/edcfc922667d86db8a25c087cdea2750/Sky_Sports_6.png" , Sky Sport 6
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=0003&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="57" tvg-id="sky.57" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/2W3VYD7jLnxWNNztOkEfNn/78f46ff43a7a01580c69d7b8c68a085f/Sky_Sports_7.png" , Sky Sport 7
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=0009&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="58" tvg-id="sky.58" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/1E6YMflONVpZdhNXvc0LWo/68443f563a0c6a383edcc2518b1cbae9/Sky_Sport_Premier_League_Logo_Arrow_Box.png" , Sky Sport Premier League
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=0004&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="59" tvg-id="sky.59" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/5F6kCqdSuIcHo7gDduSFVt/f67001a9ae1f9dfb1d7a2a82d9acf538/Sky_Sports_9.png" , Sky Sport 9
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=0016&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="60" tvg-id="sky.60" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/2fIOtL3s8jEH8xBYOrStcX/0073e945ae106236a808851818d2e723/ESPN.png" , ESPN
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=0026&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="61" tvg-id="sky.61" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/3fTSsxpHHLRnEtSs4eTKtO/1ffb263a0e8e663feac0e11cda63c638/ESPN2.png" , ESPN2
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=0082&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="62" tvg-id="sky.62" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/jlO8SF7pOUCKvLxFgGeEp/23f4080bb6edf772b1059f8da92ed6ea/062_1920x1080.png" , Trackside 1
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=0093&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="63" tvg-id="sky.63" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/2yrL7jlBD9zNmt8u7UX5hy/b854616c5152c3d26a52a6def8a836b5/063_1920x1080.png" , Trackside 2
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=0094&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="70" tvg-id="sky.70" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/61RGM4MHjXJYN7S4CvbRQH/ce7ad024cd2892a15e7124ad652b6a64/Discovery.png" , Discovery
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=DISC&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="71" tvg-id="sky.71" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/7EQH3N1WixDGrYYQzVS1P7/004d58c4838be9ca705dd8dca1d92480/Real_Crime_1920x1080.png" , Real Crime
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=CRIV&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="73" tvg-id="sky.73" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/41YQQY4ci5A6lLWmPBlopk/fd3eb4da4ce7dcad7f2ce516f3e9aa6f/Real_History_1920x1080.png" , Real History
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=HIST&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="74" tvg-id="sky.74" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/7EyTd3S3yodkmPc54wjkqN/1b523700a611e74c923d6bfb5c3210d3/074_1920x1080.png" , BBC Earth
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=DOCO&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="75" tvg-id="sky.75" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/593fHeUTE88UEqJhy6faGg/991571d0ef4fcea278edbe1c7669ca58/Discovery_Turbo.png" , Discovery Turbo
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=0100&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="76" tvg-id="sky.76" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/2OVeEOf8lRvWR2EzTOYJMx/13c19a41c27e194ec3229b705b1ae82b/Animal_Planet.png" , Animal Planet
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=ANIM&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="81" tvg-id="sky.81" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/5vqqGf82aldmBZB5c2Um5y/12413977f84a8dd8cc1f86e2bd859339/Country_TV.png" , Country TV
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=CNTV&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="85" tvg-id="sky.85" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/19ZtBbZim28t709NROeYOY/9265c22d68b6f9c5fe987bb081d2ed07/News24.png" , News24
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=NEWS&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="87" tvg-id="sky.87" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/4i9O0yxfPsllklNYOY1JEt/40fd8d535615038b066a2241378cadbf/CNN.png" , CNN
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=CNNS&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="88" tvg-id="sky.88" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/3l0hPSRwt9duYgnrCoFPSz/ccf7717a30f0e36603726ffa3be6a9db/Fox_News_Channel.png" , Fox News
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=FOXN&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="89" tvg-id="sky.89" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/8qUWsA9yKV9JIxpHTArfX/9a6a6f82a7544af9f3bc6186aee073cd/BBC-News-New.png" , BBC World News
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=BBCV&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="90" tvg-id="sky.90" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/5JHKh7IzwqsfGHfyIt4rMT/8999e06fda2800b63ad0c085fbfbc739/Aljazeera.png" , Al Jazeera
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=0062&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="91" tvg-id="sky.91" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/FOyiJSedOReJ4SKN0j2zh/b145a5a95e56680bb392e02a3ca96868/sky_cnbc_16x9.jpg" , CNBC
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=CBNC&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="101" tvg-id="sky.101" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/1ttwBxbybmb4Q3PFEws6E1/48f5046e1ffbdb403c96d2686fc55bda/Sky_kids_flat_1920x1080.png" , Sky Kids
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=0021&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="103" tvg-id="sky.103" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/6x6SVtdBYcIL4FemJah3oh/bc6ba686f00a2c7495eb83703ea80d84/Ceebies.png" , CBeebies
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=0166&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="150" tvg-id="sky.150" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/3CaqX6L8yd9SvFRIRBwfYg/973239fd121dc901135ccb08f539e9a6/star_plus.png" , Star Plus Hindi
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=STPH&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="151" tvg-id="sky.151" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/2T1TZskJ3xM0cKizjkRd4c/b588b72a00ac6d91884d712f7fc8d9cb/151_Colors_320x320.png" , Colors
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=0107&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="152" tvg-id="sky.152" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/7yhnz1jA37LRKMsxgYUiEj/30b37291624d9d6b341461f20c95ee8c/Star_Gold.png" , Star Gold
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=0108&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="204" tvg-id="sky.204" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/4wnpgxJygOpGVBsF5Ku2x8/2dea23804a9c9a960649402a2b9342dc/Hope_Channel.png" , Hope Channel
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=0099&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="207" tvg-id="sky.207" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/8AjEV0sOM3A4BccRvvzCy/33de2f83187894982d35cf18a431f888/BBC_FIRST_STACK_LOGO_2022_BLK_RGB.png" , BBC First
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=BBCF&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="210" tvg-id="sky.210" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/3yYmEUqjIydw5RcOidlQio/798de5a73b867ba6ab139ed4b0dad53e/Universal_TV.png" , Universal
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=0198&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="309" tvg-id="sky.309" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/4FcZk6nJq9ylM3qvTaKz1w/d007e69c59805c34b248833e2ff70736/CGTN_Documentary.png" , CGTN Documentary
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=CGTN&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="310" tvg-id="sky.310" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/6WX5mcWvxgwBXgHmOojK1V/3d3184f94ca59ef3e4a30d7ccbe775f2/CGTN.png" , CGTN: China Global Television Network
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=CCTV&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="421" tvg-id="sky.421" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/1V7ZbPolOEosso1nx34NDy/6b94f3a549dd61832cf7a59164bf27bb/rnz-national.png" , RNZ National
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=RNZ1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="422" tvg-id="sky.422" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/ee6VolLUo4LeQSM6Nz34U/a3359da3a155978a1dc04ec8c8a6f4c4/rnz-concert.png" , RNZ Concert
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=RNZ2&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="Sky Go" tvg-chno="423" tvg-id="sky.423" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/3alAKjAdiZUFfDBTW6uxHP/432473d4015f2e7c970158626cdaab46/tahu-fm.png" , Tahu FM
+plugin://slyguy.skygo.nz/?_=play_linear&asset_id=TAHU&_is_live=1&_noresume=.pvr
